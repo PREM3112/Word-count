@@ -31,8 +31,9 @@ program()
 ```
 
 ### OUTPUT:
-![prem](/Screenshot%202023-12-23%20114702.png)
-![prem](/Screenshot%202023-12-23%20114633.png)
+![Screenshot 2023-12-23 114702](https://github.com/PREM3112/Word-count/assets/145449383/daa43e25-f0d3-4773-9737-7e4b06160557)
+![Screenshot 2023-12-23 114633](https://github.com/PREM3112/Word-count/assets/145449383/4030882b-b7ef-44be-88b1-fd0566d405c5)
+
 
 
 
